@@ -1,0 +1,2 @@
+Hints for Commands:
+running rails: rails server -b $IP -p $PORT
